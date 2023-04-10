@@ -7,14 +7,7 @@ namespace Space
         {
             GameMode();
         }
-        
-        
-        
-        
-        
-        
-        
-        static void GameMode()
+       static void GameMode()
         {
               start: 
                 Console.WriteLine("Choose level:\n1)Low\n2)Medium\n3)High\n4)Hard\n5)Expert");
