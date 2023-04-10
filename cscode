@@ -8,6 +8,12 @@ namespace Space
             GameMode();
         }
         
+        
+        
+        
+        
+        
+        
         static void GameMode()
         {
               start: 
